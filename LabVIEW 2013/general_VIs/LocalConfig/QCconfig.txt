@@ -1,0 +1,34 @@
+Labview configuration at Carleton
+==================================
+INSTITUTE%CU
+- this institute
+MANUFACTURERS%Hamamatsu
+- list of sensor production manufacturers
+DEVICES%ATLAS07,ATLAS12,ATLAS12EC,ATLAS17LS,ATLAS18SS,ATLAS18R0,HALFMOON
+- list of different device types
+SERIALNUMBERS%C:\Users\Christoph\Documents\LabVIEW Data\itk-strip-sensor-qc\LabVIEW 2013\QCtests\general_VIs\database\components.csv
+- lookup table for serial numbers
+DATADIR%C:\Users\Administrator\Desktop\QC_script_test
+- all the data directores
+BAKDIR%C:\Users\Administrator\Desktop\QC_script_test\pictures
+- screenshot and temporary data file directory
+USER%Christoph,John,Ezekiel
+- list of known users
+IVRSERIES%0
+- series resistor during IV in MOhm
+IVRSHUNT%0
+- shunt resistor during IV in MOhm
+CVRSERIES%0
+- series resistor during CV in MOhm
+DCBLOCK%2.2
+- DC blocking capacitor for LCR meter in uF
+LCRRSERIES%1
+- series resistor for LCR meter in MOhm
+STABRSERIES%13.2
+- series resistor during stability test in MOhm
+STABRSHUNT%1
+- shunt resistor during stability test in MOhm
+BIASRSERIES%0.1
+- series resistor during IV in MOhm
+RPINHOLE%2.2
+- series resistor during pinhole test
