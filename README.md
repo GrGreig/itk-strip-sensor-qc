@@ -23,7 +23,7 @@
 
 *	Local configurations specific for every QC/QA site stored in simple text file
 
-*	Global measurement configurations according to ITk Technical Design Report (https://cds.cern.ch/record/2257755), QC document (https://edms.cern.ch/ui/file/2117065/2/ITk_Strip_Sensor_Quality_Control_Specification_Document_-_V3_08_04_2019.pdf), and QA document
+*	Global measurement configurations according to ITk Technical Design Report (https://cds.cern.ch/record/2257755), QC document (https://edms.cern.ch/ui/file/2117065/2/ITk_Strip_Sensor_Quality_Control_Specification_Document_-_V3_08_04_2019.pdf), and QA document (https://edms.cern.ch/ui/file/2088684/1/Sensor_Quality_Assurance_v5_docx_cpdf.pdf)
 
 *	direct feedback whether DUT passed QC/QA criteria
 
