@@ -1,12 +1,12 @@
 Default IV measurement configurations
 ==================================
-BIASSUPPLY%Keithley 6517
+BIASSUPPLY%Keithley 2410
 - default bias supply
-SMU%Keithley 2410
+SMU%Keithley 2657A
 - default SMU for pinhole test
 LCR%Wayne Kerr 6440B
 - default LCR meter
-BIASV%-350
+BIASV%-150
 - bias voltage during striptest; QC doc: Vdep+50
 BASEV%10
 - low voltage setting for pinhole test

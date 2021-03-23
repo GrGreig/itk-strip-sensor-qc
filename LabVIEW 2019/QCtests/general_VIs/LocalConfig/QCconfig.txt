@@ -1,24 +1,24 @@
-Labview configuration at Carleton
+Labview configuration at SFU
 ==================================
-INSTITUTE%CU
+INSTITUTE%SFU
 - this institute
 MANUFACTURERS%Hamamatsu
 - list of sensor production manufacturers
-DEVICES%ATLAS07,ATLAS12,ATLAS12EC,ATLAS17LS,ATLAS18SS
+DEVICES%ATLAS12EC,ATLAS17LS,ATLAS18SS,ATLAS18R0,ATLAS18R1,ATLAS18R2,ATLAS18R3,ATLAS18R4,ATLAS18R5
 - list of different device types
 SERIALNUMBERS%C:\Users\Christoph\Documents\LabVIEW Data\itk-strip-sensor-qc\LabVIEW 2013\QCtests\general_VIs\database\components.csv
 - lookup table for serial numbers
-DATADIR%C:\Users\Administrator\Desktop\QC_script_test
+DATADIR%C:\Users\Semiprobe\Desktop\Probe-Test-Software\Data
 - all the data directores
-BAKDIR%Z:\www2\QC
+BAKDIR%C:\Users\Semiprobe\Desktop\Probe-Test-Software\Data\Backup\
 - www directory
-USER%Christoph,John,Ezekiel
+USER%Graham,Xavi,Luise
 - list of known users
 IVRSERIES%0
 - series resistor during IV in MOhm
 IVRSHUNT%0
 - shunt resistor during IV in MOhm
-CVRSERIES%0
+CVRSERIES%1
 - series resistor during CV in MOhm
 DCBLOCK%2.2
 - DC blocking capacitor for LCR meter in uF
