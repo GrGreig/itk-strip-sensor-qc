@@ -89,7 +89,7 @@
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1342972416</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1342710274</Property>
 		</Item>
 		<Item Name="Read SP REMOTE Comm Parameters.vi" Type="VI" URL="../Protected/Read SP REMOTE Comm Parameters.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(M!!!!$Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"Y!.`````]!""E!A!!!!!!"!!1!!!!"!!!!!!!!!$2!=!!/"5FO=X2S!!%!"2E!A!!!!!!"!!1!!!!"!!!!!!!!$F.F&lt;7F1=G^C:3"736."!!!61!-!$X&gt;S;82F)'2F&lt;'&amp;Z+'VT+1!H1!-!)'*V:G:F=C"J=S"G&gt;7RM)'RP&lt;X!A&lt;86M&gt;'FQ&lt;'FD;82Z!!!F1!=!(H*F971A&gt;'BS:8.I&lt;WRE)'.I:7.L)(*B&gt;'5A+'VT+1!!+%"1!!1!"A!(!!A!#2F45#"325V06%5A1W^N&lt;3"198*B&lt;76U:8*T!#J!=!!?!!!4%6.F&lt;7F1=G^C:3ZM&gt;G.M98.T!!V4:7VJ5(*P9G5A&lt;X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!+E"Q!"Y!!"-25W6N;6"S&lt;W*F,GRW9WRB=X-!$&amp;.F&lt;7F1=G^C:3"J&lt;A!!6!$Q!!Q!!Q!%!!I!#Q!%!!1!"!!%!!Q!"!!%!!U#!!"Y!!!.#!!!!!!!!!E!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!!!!!!*!!!!!!!1!/!!!!!!</Property>
