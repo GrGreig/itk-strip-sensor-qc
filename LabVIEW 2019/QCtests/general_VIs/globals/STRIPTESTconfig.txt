@@ -12,13 +12,13 @@ BASEV%10
 - low voltage setting for pinhole test
 BASERAMP%10
 - step size for pinhole test ramp up
-BASEINT%1000
+BASEINT%50
 - step interval in ms; QC doc: ramp up in one step 10V/s
 HIGHV%100
 - high voltage setting for pinhole test
 HIGHRAMP%100
 - step size for pinhole test ramp up
-HIGHINT%1000
+HIGHINT%50
 - step interval in ms; QC doc: ramp up in one step 100V/s
 ACFREQUENCY%1000
 - default AC frequency for CV scans in Hz, TDR: 500-5000
