@@ -39,6 +39,7 @@
 		<Item Name="LXIPXISwitching.lvclass" Type="LVClass" URL="../Switching/LXIPXISwitching/LXIPXISwitching.lvclass"/>
 		<Item Name="KE3706A.lvclass" Type="LVClass" URL="../Switching/Keithley 3706A/KE3706A.lvclass"/>
 		<Item Name="Pickering.lvclass" Type="LVClass" URL="../Switching/Pickering/Pickering.lvclass"/>
+		<Item Name="R_Metal_KE2410.lvclass" Type="LVClass" URL="../SupplyControl/R_Metal_Keithley 2410/R_Metal_KE2410.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="VISA Configure Serial Port" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port"/>
@@ -66,6 +67,7 @@
 			<Item Name="pi40iv32.dll" Type="Document" URL="pi40iv32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="QC_RunInformation.vi" Type="VI" URL="../../QCtests/general_VIs/globals/QC_RunInformation.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

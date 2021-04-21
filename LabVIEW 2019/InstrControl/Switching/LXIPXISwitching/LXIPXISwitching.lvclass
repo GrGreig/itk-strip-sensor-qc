@@ -62,13 +62,13 @@
 		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 	</Item>
 	<Item Name="MatrixSwitch.vi" Type="VI" URL="../MatrixSwitch.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'G!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!Z!)1F$&lt;WZU;7ZV:4]!.E"Q!"Y!!"E84&amp;B*5&amp;B*5X&gt;J&gt;'.I;7ZH,GRW9WRB=X-!%UR936"936.X;82D;'FO:S"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1"P1"9!#A63:8.F&gt;!:(=G^V&lt;G1/5X2S;8"U:8.U)%*J98-.5X2S;8"U:8.U)&amp;..61V4&gt;(*J=(2F=X1A4%.3!EF7!E.7$EFO&gt;'6S=X2S;8!A1W&amp;Q$EFO&gt;'6S=X2S;8!A5G6T!V"55!!'17.U;7^O!!!W1(!!(A!!'2&gt;-7%F17%F4&gt;WFU9WBJ&lt;G=O&lt;(:D&lt;'&amp;T=Q!34&amp;B*5&amp;B*5X&gt;J&gt;'.I;7ZH)'FO!!"5!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!%!!A!#1-!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!3!!!!E!!!!!!"!!I!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(A!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!Z!)1F$&lt;WZU;7ZV:4]!.E"Q!"Y!!"E84&amp;B*5&amp;B*5X&gt;J&gt;'.I;7ZH,GRW9WRB=X-!%UR936"936.X;82D;'FO:S"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1#J1"9!$163:8.F&gt;!:(=G^V&lt;G1/5X2S;8"U:8.U)%*J98-.5X2S;8"U:8.U)&amp;..61V4&gt;(*J=(2F=X1A4%.3!EF7!E.7$EFO&gt;'6S=X2S;8!A1W&amp;Q$EFO&gt;'6S=X2S;8!A5G6T!V"55"**&lt;8"M97ZU)&amp;*F=WFT&gt;'&amp;O9W51476U97QA5G6T;8.U97ZD:22$&lt;X6Q&lt;'FO:S"$98"B9WFU97ZD:1!!"E&amp;D&gt;'FP&lt;A!!.E"Q!"Y!!"E84&amp;B*5&amp;B*5X&gt;J&gt;'.I;7ZH,GRW9WRB=X-!%ER936"936.X;82D;'FO:S"J&lt;A!!6!$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!"!!)!!E$!!"Y!!!.#!!!!!!!!!E!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!%A!!!*!!!!!!!1!+!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">33554432</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1342972432</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 	</Item>
 	<Item Name="MatrixSwitchSingle.vi" Type="VI" URL="../MatrixSwitchSingle.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;S!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"B!-0````]/9W^N&lt;7&amp;O:#"T&gt;(*J&lt;G=!!$:!=!!?!!!:&amp;UR936"936.X;82D;'FO:SZM&gt;G.M98.T!".-7%F17%F4&gt;WFU9WBJ&lt;G=A&lt;X6U!".!"A!.5X&gt;J&gt;'.I)'&amp;D&gt;'FP&lt;A!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!^!!Q!)47&amp;U=GFY)&amp;E!!!^!!Q!)47&amp;U=GFY)&amp;A!!$:!=!!?!!!:&amp;UR936"936.X;82D;'FO:SZM&gt;G.M98.T!"*-7%F17%F4&gt;WFU9WBJ&lt;G=A;7Y!!&amp;1!]!!-!!-!"!!&amp;!!9!"!!%!!1!"Q!)!!E!#A!,!Q!!?!!!$1A!!!!!!!!*!!!!D1M!!!!!!!!!!!!!!!!!!"!!!!!+!!!!%!!!!"!!!!#1!!!!!!%!$!!!!!!</Property>
